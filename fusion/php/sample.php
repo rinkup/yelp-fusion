@@ -19,7 +19,7 @@
 // API key placeholders that must be filled in by users.
 // You can find it on
 // https://www.yelp.com/developers/v3/manage_app
-$API_KEY = NULL;
+$API_KEY = q08wRcXHHXA0rl38r7ICR35r_OHG7hjt_baPsS2BDL7gcogjVTQA6XBAcIgiz8hr4DyIGLtvxeGXc3nifQsabQoMPckccffhyFXaVKR5t6mdldF3hJw8iMVqzM6tXnYx;
 
 // Complain if credentials haven't been filled out.
 assert($API_KEY, "Please supply your API key.");
